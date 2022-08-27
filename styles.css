@@ -463,7 +463,7 @@ body::-webkit-scrollbar {
     margin-bottom: 4px;
 }
 #fname, #email{
-    height: 30px;
+    height: 40px;
 }
 .submit_btn
 {
